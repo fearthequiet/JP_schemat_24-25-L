@@ -93,7 +93,7 @@
         <mxCell id="x9CeoxvAhUATu_pXnIox-101" value="Zagraj sygnał dźwiękowy&lt;br&gt;przegranej" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="1310" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9CeoxvAhUATu_pXnIox-102" value="&lt;div&gt;Czy wylosowano&lt;/div&gt;&lt;div&gt;symbole 7?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="x9CeoxvAhUATu_pXnIox-102" value="&lt;div&gt;Czy wylosowano&lt;/div&gt;&lt;div&gt;symbole &quot;7&quot;?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="503" y="1150" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="x9CeoxvAhUATu_pXnIox-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x9CeoxvAhUATu_pXnIox-104" target="x9CeoxvAhUATu_pXnIox-102">
